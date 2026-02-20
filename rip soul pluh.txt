@@ -1,4 +1,6 @@
--- ts file was generated at discord.gg/25ms
+-- rip pluh
+-- one of history's script
+-- truly goated btw
 
 if not LPH_OBFUSCATED then
     function LPH_NO_VIRTUALIZE(...)
